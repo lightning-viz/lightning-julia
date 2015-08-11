@@ -1,1 +1,1 @@
-# Lightning
+# Lightning julia client (WIP)
